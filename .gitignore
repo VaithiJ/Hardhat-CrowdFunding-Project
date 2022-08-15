@@ -1,0 +1,14 @@
+node_modules
+.env
+coverage
+coverage.json
+typechain
+test
+deployments
+staging.js 
+unit- fundme.js
+coverage.json
+
+#Hardhat files
+cache
+artifacts
